@@ -11,8 +11,8 @@ npm run dev:build
 into the terminal when in your project.
 
 You will be able to run your project on a development server by typing the command:
-```
-npm run dev:build
+```bash
+npm run dev:start
 ```
 
 You will now be able to visit localhost:8080/bundle and find your app.
