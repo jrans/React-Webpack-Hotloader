@@ -9,7 +9,7 @@
     "dev:start": "webpack-dev-server --hot --inline --progress --colors --config webpack.development.config.js",
     "watch:dev": "nodemon --watch api",
     "build:html": "cp assets/index.html public/index.html",
-    "build": "webpack --config webpack.production.config.js && npm run, build:html",
+    "build": "webpack --config webpack.production.config.js && npm run build:html",
     "postinstall": "npm run mk && npm run build",
     "mk": "mkdir public"
   },
