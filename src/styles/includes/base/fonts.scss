@@ -1,0 +1,38 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(/assets/fonts/montserrat/Montserrat-Hairline.otf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(/assets/fonts/montserrat/Montserrat-Light.otf);
+        font-weight: 200;
+
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(/assets/fonts/montserrat/Montserrat-Regular.otf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(/assets/fonts/montserrat/Montserrat-Bold.otf);
+    font-weight: 900;
+}
+
+body {
+	font-family: Montserrat;
+  align-items: center;
+}
+
+
+h1 {
+  margin: 0;
+	padding: 0;
+  color: orange;
+	font-weight: 100;
+  font-size: 180px;
+}
