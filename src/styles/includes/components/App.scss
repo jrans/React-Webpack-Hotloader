@@ -1,0 +1,14 @@
+.counter {
+	font-family: Montserrat;
+	height: 210px;
+	min-width: 300px;
+
+	text-align: center;
+	background-color: $blue;
+	border-radius: 60px;
+	align-content: center;
+	&:hover {
+		text-decoration: none;
+		background-color: yellow;
+	}
+}
