@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/jrans/React-Webpack-Hotloader",
   "dependencies": {
-    "hapi": "^8.6.1"
+    "hapi": "^18.1.0"
   },
   "devDependencies": {
     "babel-core": "^5.8.20",
